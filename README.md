@@ -2,10 +2,10 @@
 
 Mobile application to track concerts
 
-Developers:
-Josephina Tavera
-Rachel Beneroff
-Zarela Graves
+## Developers:
+- Josephina Tavera
+- Rachel Beneroff
+- Zarela Graves
 
 
 ![](http://i.imgur.com/pgHTEpa.jpg)
